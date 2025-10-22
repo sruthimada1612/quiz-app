@@ -31,4 +31,4 @@ It features randomized questions, multiple attempts, and score tracking — perf
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/python-quiz-app.git
+   git clone https://github.com/sruthimada1612/quiz-app/edit/main/README.md
